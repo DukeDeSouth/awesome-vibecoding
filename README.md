@@ -210,6 +210,8 @@ Real products built primarily with vibecoding.
 | [Dub.co](https://dub.co) | Link management | Next.js + PlanetScale | Ongoing | [GitHub](https://github.com/dubinc/dub) |
 | [Cal.com](https://cal.com) | Scheduling | Next.js + Prisma | Ongoing | [GitHub](https://github.com/calcom/cal.com) |
 | [OpenLoom](https://github.com/DukeDeSouth/OpenLoom) | Self-hosted Loom alternative | Next.js + ffmpeg + Whisper | ~1 week | [GitHub](https://github.com/DukeDeSouth/OpenLoom) |
+| [portwatch](https://github.com/DukeDeSouth/portwatch) | Port & process viewer with risk assessment | TypeScript + Ink | ~1 day | [npm](https://www.npmjs.com/package/portwatch) |
+| [vps-harden](https://github.com/DukeDeSouth/vps-harden) | VPS hardening wizard — SSH, firewall, fail2ban | TypeScript + node-ssh | ~1 day | [npm](https://www.npmjs.com/package/vps-harden) |
 
 > **Submit your project!** Built something with vibecoding? [Open a PR.](CONTRIBUTING.md)
 
